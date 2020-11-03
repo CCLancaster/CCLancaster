@@ -1,4 +1,4 @@
-# <img src="https://github.com/CCLancaster/CCLancaster/blob/main/Hi_Round.png"> there!
+[![Header](https://github.com/CCLancaster/CCLancaster/blob/main/readme_header.png "Header")](https://www.conniecodes.com/)
 
 
 ## My GitHub Stats 🔥
