@@ -1,4 +1,4 @@
-# <img src="https://github.com/CCLancaster/CCLancaster/blob/main/Hi_Round.png"> 
+# <img src="https://github.com/CCLancaster/CCLancaster/blob/main/Hi_Round.png"> there!
 
 
 ## My GitHub Stats 🔥
