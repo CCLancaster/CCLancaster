@@ -1,4 +1,5 @@
-### Hi there 👋
+# <img src="https://github.com/CCLancaster/CCLancaster/blob/main/Hi_Round.png"> 
+
 
 ## My GitHub Stats 🔥
 ![Connie's github stats](https://github-readme-stats.vercel.app/api?username=cclancaster&count_private=true&theme=monokai&show_icons=true&hide=stars,issues)
