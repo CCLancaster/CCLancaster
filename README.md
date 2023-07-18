@@ -1,13 +1,12 @@
 [![Header](https://github.com/CCLancaster/CCLancaster/blob/main/readme_header.png "Header - links to my website")](https://www.conniecodes.com/)
 
 <p align='center'>
-<a href="https://dev.to/cclancaster"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Connie Lancaster's DEV Profile" height="30" width="30"></a>
+<a href="https://dev.to/cclancaster"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Connie Lancaster's DEV Profile" height="30" width="30"></a><a href="https://www.linkedin.com/in/cclancaster/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Connie Lancaster's LinkedIn Profile" height="30" width="30"></a>
 
 ## My GitHub Stats 🔥
-![Connie's github stats](https://github-readme-stats.vercel.app/api?username=cclancaster&count_private=true&theme=monokai&show_icons=true&hide=stars,issues)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cclancaster&layout=compact&theme=monokai)
 ![trophy](https://github-profile-trophy.vercel.app/?username=cclancaster&theme=monokai&title=Commit,PullRequest,Repositories)
+
 
 <!--
 **CCLancaster/CCLancaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
